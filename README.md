@@ -1,1 +1,1 @@
-This is an example to start the workflow
+This is an example to start the workflow.
